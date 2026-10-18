@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/arrow-py/arrow/commit/2224255c4acc594d734cef0bbc83360452a67983",
       "git:hexsha": "2224255c4acc594d734cef0bbc83360452a67983",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T02:03:14.895284+00:00"
     },
     {
       "@id": "https://repolex.ai/r/arrow-py/arrow/commit/d7cd81a6fa10dfcb4553edcd78969a27625e1689",
