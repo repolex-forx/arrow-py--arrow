@@ -1,0 +1,11 @@
+{
+  "org": "arrow-py",
+  "repo": "arrow",
+  "versions": [
+    {
+      "commit": "2224255c4acc594d734cef0bbc83360452a67983",
+      "tag": "",
+      "parsed_at": "2026-10-18T02:03:14.988861+00:00"
+    }
+  ]
+}
